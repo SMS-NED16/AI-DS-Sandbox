@@ -1,6 +1,6 @@
 # Not tracking any datasets
-.csv
-.xlxs
+*.csv
+*.xlxs
 
 
 # Byte-compiled / optimized / DLL files
